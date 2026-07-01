@@ -9,7 +9,7 @@ time.sleep(1)
 for i in "\nIn the room where the monitors brightly glow,\nSits Peter Harwood, the master we know.\nFor the CS gang of 2026, he’s the guide,\nLeading our crew through the tech countryside.\n":
     print(i, end = "", flush = True)
     time.sleep(0.06)
-    
+
 time.sleep(0.75)
 
 for i in "\nHe walks us through Python, indent by indent,\nTracing where MAR and the MDR went.\nBut don't ask us what a structured diagram means—\nThat concept is completely blank on our screens!\nAnd those actual exams? Well, the pass rate is low,\nBut we still love the class and we enjoy the show.\n":
@@ -76,7 +76,8 @@ So majestic in ASCII      ##*************+******+***####*********++*++=++*
 -------:::-----::::----::::=***##*=-:::+++=-------=*########=-:----------------:------------------
 ---------::---------:::::::=*##**+==-:::::::::::::::-*####*-::------------------------------------
 -------:::---------:::::::-+####**###*-:.::-=--:::::+##**=-::-------------------------------------
-----::-::::--::::--::-::::-+#########*-:::::::::..:=##*+-::::-------------------------------------                                                                                                                    
+----::-::::--::::--::-::::-+#########*-:::::::::..:=##*+-::::-------------------------------------
 """:
     print(i, end = "", flush = True)
     time.sleep(0.0025)
+
